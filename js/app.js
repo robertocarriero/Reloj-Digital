@@ -23,7 +23,7 @@ const formatoHora = (hora)=>{
 }
 
 
-setInterval(mostrarReloj, 1000);/* Con setInterval delamos pasar 1 seg con la leyenda Relo Digital*/
+setInterval(mostrarReloj, 1000);/* Con setInterval delamos pasar 1 seg con la leyenda Reloj Digital*/
 
 
 
